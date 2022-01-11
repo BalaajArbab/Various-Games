@@ -7,6 +7,8 @@ Made by me when I was a fresh and wee programmer
 Consolidated and Menu added later.
 
 ## Menu 
+Selection of games: Tetris, Flappy Bird, Pong, Snake, Tic-Tac-Toe.
+
 ![Menu](images/menu.png)
 
 ### Tetris
